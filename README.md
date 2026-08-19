@@ -1,7 +1,6 @@
 Hi there!  
 
 I'm one of the people in the world with the fewest Stars...
-~~还有，我才不是什么小南梁呢!~~
 
 <!--
 **fs5s12/fs5s12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
